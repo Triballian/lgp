@@ -1,0 +1,2 @@
+# lgp
+Learning Go Programming
